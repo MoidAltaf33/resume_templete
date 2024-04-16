@@ -28,10 +28,6 @@ This resume template is designed to be easily readable by ATS, increasing the ch
 
 Contributions to improve the template are welcome! If you have suggestions for enhancements or spot any issues, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Example ATS keyword list](https://www.jobscan.co/blog/ats-resume/)
